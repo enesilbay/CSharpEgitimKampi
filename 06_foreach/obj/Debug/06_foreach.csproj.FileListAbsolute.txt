@@ -1,0 +1,8 @@
+C:\Users\Enes\source\repos\CSharpEgitimKampi\06_foreach\bin\Debug\06_foreach.exe.config
+C:\Users\Enes\source\repos\CSharpEgitimKampi\06_foreach\bin\Debug\06_foreach.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\06_foreach\bin\Debug\06_foreach.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\06_foreach\obj\Debug\06_foreach.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\06_foreach\obj\Debug\06_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\06_foreach\obj\Debug\06_foreach.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\06_foreach\obj\Debug\06_foreach.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\06_foreach\obj\Debug\06_foreach.exe.config

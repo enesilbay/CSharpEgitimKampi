@@ -1,0 +1,8 @@
+C:\Users\Enes\source\repos\CSharpEgitimKampi\05_diziler\bin\Debug\05_diziler.exe.config
+C:\Users\Enes\source\repos\CSharpEgitimKampi\05_diziler\bin\Debug\05_diziler.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\05_diziler\bin\Debug\05_diziler.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\05_diziler\obj\Debug\05_diziler.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\05_diziler\obj\Debug\05_diziler.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\05_diziler\obj\Debug\05_diziler.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\05_diziler\obj\Debug\05_diziler.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\05_diziler\obj\Debug\05_diziler.exe.config

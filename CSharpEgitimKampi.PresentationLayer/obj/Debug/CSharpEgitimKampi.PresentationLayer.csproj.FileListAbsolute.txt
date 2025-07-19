@@ -1,0 +1,6 @@
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayer\bin\Debug\CSharpEgitimKampi.PresentationLayer.dll
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayer\bin\Debug\CSharpEgitimKampi.PresentationLayer.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayer\obj\Debug\CSharpEgitimKampi.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayer\obj\Debug\CSharpEgitimKampi.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayer\obj\Debug\CSharpEgitimKampi.PresentationLayer.dll
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayer\obj\Debug\CSharpEgitimKampi.PresentationLayer.pdb

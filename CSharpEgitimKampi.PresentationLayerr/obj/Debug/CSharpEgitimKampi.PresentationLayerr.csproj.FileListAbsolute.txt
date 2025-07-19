@@ -1,0 +1,9 @@
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayerr\bin\Debug\CSharpEgitimKampi.PresentationLayerr.exe.config
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayerr\bin\Debug\CSharpEgitimKampi.PresentationLayerr.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayerr\bin\Debug\CSharpEgitimKampi.PresentationLayerr.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayerr\obj\Debug\CSharpEgitimKampi.PresentationLayerr.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayerr\obj\Debug\CSharpEgitimKampi.PresentationLayerr.Properties.Resources.resources
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayerr\obj\Debug\CSharpEgitimKampi.PresentationLayerr.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayerr\obj\Debug\CSharpEgitimKampi.PresentationLayerr.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayerr\obj\Debug\CSharpEgitimKampi.PresentationLayerr.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.PresentationLayerr\obj\Debug\CSharpEgitimKampi.PresentationLayerr.pdb

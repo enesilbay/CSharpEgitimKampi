@@ -1,0 +1,8 @@
+C:\Users\Enes\source\repos\CSharpEgitimKampi\09_database2\bin\Debug\09_database2.exe.config
+C:\Users\Enes\source\repos\CSharpEgitimKampi\09_database2\bin\Debug\09_database2.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\09_database2\bin\Debug\09_database2.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\09_database2\obj\Debug\09_databaseCrud.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\09_database2\obj\Debug\09_databaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\09_database2\obj\Debug\09_database2.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\09_database2\obj\Debug\09_database2.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\09_database2\obj\Debug\09_database2.exe.config

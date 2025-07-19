@@ -1,0 +1,8 @@
+C:\Users\Enes\source\repos\CSharpEgitimKampi\methods\bin\Debug\methods.exe.config
+C:\Users\Enes\source\repos\CSharpEgitimKampi\methods\bin\Debug\methods.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\methods\bin\Debug\methods.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\methods\obj\Debug\07_methods.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\methods\obj\Debug\07_methods.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\CSharpEgitimKampi\methods\obj\Debug\methods.exe
+C:\Users\Enes\source\repos\CSharpEgitimKampi\methods\obj\Debug\methods.pdb
+C:\Users\Enes\source\repos\CSharpEgitimKampi\methods\obj\Debug\methods.exe.config
